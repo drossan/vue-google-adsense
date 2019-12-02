@@ -146,6 +146,7 @@ Already used in production for these project :
 + [Rumah Sakit Jakarta](https://mazipan.github.io/RumahSakitJakarta)
 + [ChuckNorris](https://mazipan.github.io/chucknorris)
 + [Nuxt blog - Surmon.me](https://github.com/surmon-china/surmon.me)
++ [Amigo Invisible](http://www.juegoamigoinvisible.com)
 + Etc... // You can add the list here via pull request
 
 ## 🏃 Development
